@@ -1,4 +1,6 @@
 # stadtfuehrung
 Text für eine Stadtführung
 
-Dauer circa 2 Stunden
+Führung dauert circa 2 Stunden. 
+
+Quelle: Größtenteils Wikipedia
